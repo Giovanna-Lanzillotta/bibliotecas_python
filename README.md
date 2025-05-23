@@ -4,11 +4,6 @@ As bibliotecas de Python são coleções de funções e modulos já pré-definid
 - É necessário importar o módulo da biblioteca para utilizar as suas funções.
 
 
-## Sumário
-- [NumPy](#numpy)
-- [matplotlib](#matplotlib)
-- [random](#random)
-
 ## NumPy
 > **Atenção:** Precisa instalar usando o pip
 
